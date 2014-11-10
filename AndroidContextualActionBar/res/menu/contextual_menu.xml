@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- android:showAsAction="always" for warnings API level 11 and higher -->
+    <item
+        android:id="@+id/item_info"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:showAsAction="always"
+        android:title="@string/item_info_str"
+        android:titleCondensed="Info">
+    </item>
+    <item
+        android:id="@+id/item_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="always"
+        android:title="@string/item_delete_str"
+        android:titleCondensed="Delete">
+    </item>
+    <item
+        android:id="@+id/item_copy"
+        android:icon="@drawable/ic_action_copy"
+        android:showAsAction="always"
+        android:title="@string/item_copy_str"
+        android:titleCondensed="Copy">
+    </item>
+    <item
+        android:id="@+id/item_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:showAsAction="always"
+        android:title="@string/item_share_str"
+        android:titleCondensed="Share">
+    </item>
+
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidContextualActionBar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="item_info_str">Info</string>
+    <string name="item_copy_str">Copy</string>
+    <string name="item_delete_str">Delete</string>
+    <string name="item_share_str">Share</string>
+    <string name="longclick">Long Click Button !</string>
+</resources>
