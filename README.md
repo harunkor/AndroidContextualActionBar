@@ -3,4 +3,5 @@ AndroidContextualActionBar
 
 The use of Android in the contextual action bar  (WhatsApp Contextual Action Bar)
 
-![Alt text](https://raw.githubusercontent.com/harunkor/AndroidContextualActionBar/master/AndroidContextualActionBar/device-2014-11-10-193822.png "Optional title")
+![Alt text](https://github.com/harunkor/AndroidGoogleAdvertisingAdmob/blob/master/device-2016-02-11-154500.png?raw=true "")
+![Alt text](https://github.com/harunkor/AndroidGoogleAdvertisingAdmob/blob/master/device-2016-02-11-154519.png?raw=true "")
